@@ -8,6 +8,7 @@ django = "*"
 ipython = "*"
 djangorestframework = "*"
 djangorestframework-jsonapi = "*"
+django-querycount = "*"
 
 [dev-packages]
 
